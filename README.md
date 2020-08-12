@@ -10,4 +10,4 @@
 
 ### Link
 
-[Digital Clock]
+[Digital Clock](https://wajih-alzouhairy.github.io/clock/)
